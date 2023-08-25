@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import './App.css';
 
 const ButtonMedium = styled.button`
-  background-color: red;
+  background-color: blue;
 `;
 function App() {
   return (
