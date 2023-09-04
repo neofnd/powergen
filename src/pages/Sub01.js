@@ -7,14 +7,12 @@ import ButtonTitle from '../components/ButtonTitle';
 import Table from '../components/Table';
 import SearchBox from '../components/SearchBox';
 import Paginations from '../components/Paginations';
-
 import './Sub01.css';
 
 export default function Sub01() {
     return (
         <>
             <Header />
-
             <Stack direction="row">
                 <SideBar />
                 <Box sx={{ p: 12, width: '100%', mt: 20 }}>
